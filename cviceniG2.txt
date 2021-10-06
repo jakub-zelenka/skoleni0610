@@ -1,4 +1,4 @@
 var1="Ahoj svete"
-var2="neco dalsiho"
+var2="change"
 var3="jeste jedna promenna"
 print var1+var2=var3
