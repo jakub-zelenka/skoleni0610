@@ -2,7 +2,7 @@
 cvicna repozitory
 
 ## cviceniG2
-pridame prvni commit
+__pridame prvni commit__
 
 ### cviceni_pull_requests
-neco tu
+_neco tu_
